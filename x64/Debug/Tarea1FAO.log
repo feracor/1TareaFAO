@@ -1,0 +1,5 @@
+﻿  Tarea1FAO.cpp
+D:\Documents\MNA_CN\Tarea1FAO\Tarea1FAO.cpp(22,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Documents\MNA_CN\Tarea1FAO\Tarea1FAO.cpp(23,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Documents\MNA_CN\Tarea1FAO\Tarea1FAO.cpp(14,5): warning C4101: 'i': unreferenced local variable
+  Tarea1FAO.vcxproj -> D:\Documents\MNA_CN\Tarea1FAO\x64\Debug\Tarea1FAO.exe
